@@ -228,8 +228,9 @@ header {
    width: 75%;
 }
 
-.big-feature-section {
+.big-features-section {
     padding: 30px var(--padding-inline-section) 0;
+    margin-top: 20px; 
 }
 
 .big-feature-container {
